@@ -1,2 +1,2 @@
 # samplepage
-Sample web page
+Sample web page using Github pages
